@@ -17,7 +17,19 @@ This is a Ticket Management System built using Laravel.
 - Bootstrap / Blade
 
 ## 📸 Screenshots
-(Add your project screenshots here)
+
+
+### Login Page
+![Login](https://github.com/karanprajapati9995/ticket-system/blob/main/login_image.jpeg?raw=true)
+
+### Dashboard
+![Dashboard](https://github.com/karanprajapati9995/ticket-system/blob/main/dashboard_image.jpeg?raw=true)
+
+### Ticket List
+![Tickets](https://github.com/karanprajapati9995/ticket-system/blob/main/tikect_image.jpeg?raw=true)
+
+### Register Page
+![Register](https://github.com/karanprajapati9995/ticket-system/blob/main/register_image.jpeg?raw=true)
 
 ## ⚙️ Setup Instructions
 1. Clone the repository
